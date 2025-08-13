@@ -2,7 +2,6 @@
 
 EpigeneNemaPipe pipeline is written in Nextflow and runs on Linux and Mac OSX systems.
 
-## Dependencies
 
 In order to run EpigeneNemaPipe, you need to have the following programs installed:
 
@@ -10,11 +9,8 @@ In order to run EpigeneNemaPipe, you need to have the following programs install
 - **Nextflow** for workflow management, specifically DSL2 support
 - **Conda** for installation of workflow tools
 
-## Install EpigeneNemaPipe
 
 After installing all the above dependencies, EpigeneNemaPipe will automatically install the software needed for the process using Conda when running the pipeline.
-
-## Quick guide on how to install most tools
 
 - **Java v8+**: [https://anaconda.org/cyclus/java-jdk](https://anaconda.org/cyclus/java-jdk)  
 - **Nextflow**: [https://www.nextflow.io/docs/latest/getstarted.html#installation](https://www.nextflow.io/docs/latest/getstarted.html#installation)  
