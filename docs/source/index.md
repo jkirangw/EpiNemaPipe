@@ -14,3 +14,5 @@ Hidden Markov Model (HMM) and Dynamic Bayesian Network (DBN).
 
 Installation
 Running_EpigeneNemaPipe
+Input_files
+Output_files
