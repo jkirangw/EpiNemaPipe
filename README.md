@@ -7,7 +7,9 @@ machine learning techniques to segment the genome.
 The chromatin states are learned from binarized data using a multivariate
 Hidden Markov Model (HMM) and Dynamic Bayesian Network (DBN).
 
-## Contents
 
-- [Usage](usage.md)
+```{toctree}
+:maxdepth: 2
+:caption: Contents:
 
+usage
