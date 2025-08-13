@@ -1,6 +1,4 @@
-# Usage
-
-## Installation
+# Installation
 
 EpigeneNemaPipe pipeline is written in Nextflow and runs on Linux and Mac OSX systems.
 

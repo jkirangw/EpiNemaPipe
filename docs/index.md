@@ -12,4 +12,5 @@ Hidden Markov Model (HMM) and Dynamic Bayesian Network (DBN).
 :maxdepth: 2
 :caption: Contents:
 
-usage
+Installation
+Running_EpigeneNemaPipe
