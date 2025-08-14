@@ -45,3 +45,11 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 master_doc = "index"
+
+html_context = {
+    "display_github": True,             # Enable the link
+    "github_user": "jkirangw",  # replace with your GitHub username
+    "github_repo": "EpigeneNemaPipe",     # your repository name
+    "github_version": "main",             # or the branch you use (e.g., master)
+    "conf_py_path": "/docs/source/",      # path to your docs folder in the repo
+}
