@@ -12,6 +12,7 @@ Hidden Markov Model (HMM) and Dynamic Bayesian Network (DBN).
 
 EpigeneNemaPipe pipeline is written in Nextflow and runs on Linux and Mac OSX systems.
 
+- **Find a detailed documentation**: [https://epinemapipe.readthedocs.io/en/latest/index.html](https://epinemapipe.readthedocs.io/en/latest/index.html)
 ## Dependencies
 
 In order to run EpigeneNemaPipe, you need to have the following programs installed:
