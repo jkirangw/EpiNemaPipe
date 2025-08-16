@@ -1,6 +1,6 @@
-# EpigeneNemaPipe
+# EpiNemaPipe
 
-EpigeneNemaPipe is a pipeline for analysis of chromatin state changes
+EpiNemaPipe is a pipeline for analysis of chromatin state changes
 in the nematode *Strongyloides ratti*. The pipeline uses two unsupervised
 machine learning techniques to segment the genome.
 
@@ -10,20 +10,20 @@ Hidden Markov Model (HMM) and Dynamic Bayesian Network (DBN).
 
 ## For Installation
 
-EpigeneNemaPipe pipeline is written in Nextflow and runs on Linux and Mac OSX systems.
+EpiNemaPipe pipeline is written in Nextflow and runs on Linux and Mac OSX systems.
 
 - **Find a detailed documentation**: [https://epinemapipe.readthedocs.io/en/latest/index.html](https://epinemapipe.readthedocs.io/en/latest/index.html)
 ## Dependencies
 
-In order to run EpigeneNemaPipe, you need to have the following programs installed:
+In order to run EpiNemaPipe, you need to have the following programs installed:
 
 - **Java v8+** for Nextflow
 - **Nextflow** for workflow management, specifically DSL2 support
 - **Conda** for installation of workflow tools
 
-## Install EpigeneNemaPipe
+## Install EpiNemaPipe
 
-After installing all the above dependencies, EpigeneNemaPipe will automatically install the software needed for the process using Conda when running the pipeline.
+After installing all the above dependencies, EpiNemaPipe will automatically install the software needed for the process using Conda when running the pipeline.
 
 ## Quick guide on how to install most tools
 
