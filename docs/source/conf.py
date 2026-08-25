@@ -6,7 +6,7 @@ sys.path.insert(0, os.path.abspath('../..'))
 # -- Project information
 
 project = 'EpigeneNemaPipe'
-copyright = '2025, Joseph Kirangwa'
+copyright = '2026, Joseph Kirangwa'
 author = 'Joseph Kirangwa'
 
 release = '0.1'

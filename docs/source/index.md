@@ -1,17 +1,16 @@
 # EpigeneNemaPipe
 
-EpigeneNemaPipe is a pipeline for analysis of chromatin state changes
-in the nematode *Strongyloides ratti*. The pipeline uses two unsupervised
-machine learning techniques to segment the genome.
+EpigeneNemaPipe is a pipeline for analysis of chromatin state changes and gene expression
+in the nematode *Strongyloides ratti*. The pipeline uses unsupervised
+machine learning to segment the genome.
 
 The chromatin states are learned from binarized data using a multivariate
-Hidden Markov Model (HMM) and Dynamic Bayesian Network (DBN).
+Hidden Markov Model (HMM).
 
 ```{toctree}
 :maxdepth: 2
 :caption: Contents:
-
-Installation
-Input_files
-Running_EpigeneNemaPipe
-Output_files
+chromatin_state/index
+rnaseq/index
+publication/index
+```
