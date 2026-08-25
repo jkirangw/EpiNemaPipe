@@ -1,1 +1,1 @@
-# Running EpigeneNemaPipe
+# Learning chromatin states
