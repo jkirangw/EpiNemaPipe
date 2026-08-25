@@ -9,6 +9,6 @@ The pipeline uses unsupervised machine-learning, a multivariate Hidden Markov Mo
 
 Installation
 Input_files
-Running_chromhmm
+Learning_chromatin_states
 Output_files
 ```
