@@ -1,6 +1,6 @@
-# EpiNemaPipe
+# Epigenetic regulation of nematode parasitism
 
-EpiNemaPipe is a pipeline for analysis of chromatin state changes
+This is a workflow for analysis of chromatin state changes
 in the nematode *Strongyloides ratti*. The pipeline uses two unsupervised
 machine learning techniques to segment the genome.
 
